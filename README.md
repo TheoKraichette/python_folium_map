@@ -2,5 +2,5 @@
 
 ```bash
 python script.py     # 1. lancer le script
-Ouvrir le fichier index.html   # 2. Ouvrir la map
 ```
+Ouvrir le fichier index.html pour ouvrir la map
